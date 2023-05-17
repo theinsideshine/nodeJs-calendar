@@ -26,7 +26,7 @@ All endpoints were tested with postman
 Deploy the application locally.
 
 Video-Demo CalendarApp
-[![Demo CalendarApp](images/video-deploy.png)](https://www.youtube.com/watch?v=HH-HYL1hpBg)
+[![Demo CalendarApp](images/video.png)](https://www.youtube.com/watch?v=HH-HYL1hpBg)
 
 
 
